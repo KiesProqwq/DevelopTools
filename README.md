@@ -7,3 +7,6 @@ A Minecraft mod for MinecraftForge 1.8 Development.
 
 ## How to use?
 Just put InputFix-1.8x-for-dev.jar into your mods/ under your Minecraft Development Kit folder.
+
+## What it can do?
+You can use this in minecraft game input multi-byte field.
