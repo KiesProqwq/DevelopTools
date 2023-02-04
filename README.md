@@ -8,6 +8,6 @@ A Minecraft mod for MinecraftForge 1.8 Development.
 Just put mods into your mods/ under your Minecraft Development Kit folder.
 
 ## What it can do?
-*InputFix* You can use this in minecraft game input multi-byte field.  
-*Microsoft Login* You can Login your own Minecraft Account then you can join Server.  
-*OptiFine* Boost your FPS in game.  
+<Big>*InputFix*<Big> You can use this in minecraft game input multi-byte field.  
+<Big>*Microsoft Login*<Big> You can Login your own Minecraft Account then you can join Server.  
+<Big>*OptiFine*<Big> Boost your FPS in game.  
